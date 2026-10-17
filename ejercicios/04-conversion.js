@@ -3,3 +3,8 @@
 // Declara const cantidadTexto="10", const extraTexto="5". Obtén let totalNumero convirtiendo ambos textos a números. Debe ser el número 15.
 
 // TODO: escribe aquí tu solución.
+const cantidadtexto= "10";
+const extratexto= "5";
+let totalnumero = number(valortexto)+ number(cantidadextra);
+console.log(totalnumero);
+
